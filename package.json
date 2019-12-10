@@ -1,0 +1,21 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "match making app using Node and Express Servers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acap613/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acap613/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/acap613/FriendFinder#readme"
+}
